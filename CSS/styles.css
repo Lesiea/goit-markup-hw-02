@@ -61,9 +61,7 @@ a {
         text-align: center;
         color: #fff;
         background-color: #2e2f42;
-        
 }
-
 .hero-button {
     font-weight: 500;
         font-size: 16px;
@@ -96,6 +94,9 @@ a {
         color: #434455;
 }
 
+.team-section {
+    background-color: #f4f4fd;
+}
 .team-section-title {
     font-weight: 700;
         font-size: 36px;
@@ -139,4 +140,11 @@ font-weight: 400;
 
 .page-footer {
     background-color: #2e2f42;
+}
+.footer-text {
+    font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
 }
