@@ -86,6 +86,10 @@ a {
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+.features-list {
+    background-color: #FFFFFF;
+
+}
 .features-text {
     font-weight: 400;
         font-size: 16px;
@@ -105,9 +109,6 @@ a {
         text-align: center;
         text-transform: capitalize;
         color: #2e2f42;
-}
-.team-list {
-    background-color: #FFFFFF;
 }
 .team-name {
     font-weight: 500;
