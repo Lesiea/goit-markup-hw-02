@@ -90,7 +90,11 @@ a {
         color: #2e2f42;
 }
 .features-list {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
+}
+
+.features-item {
+    background-color: #ffffff;
 }
 
 .features-text {
