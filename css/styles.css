@@ -78,15 +78,19 @@ a {
     background-color: #404bbf;
 }
 
-.features-list {
-    background-color: #FFFFFF;}
-    
+.features-section {
+    background-color: #f4f4fd;
+}
+
 .features-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
+}
+.features-list {
+    background-color: #FFFFFF;
 }
 
 .features-text {
