@@ -69,8 +69,6 @@ a {
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        width: 169px;
-        height: 56px;
         background-color: #4d5ae5;
         cursor: pointer;
     }
@@ -108,8 +106,8 @@ a {
         text-transform: capitalize;
         color: #2e2f42;
 }
-.features-list {
-    background-color: #FFFFFF
+.features-iist {
+    background-color: #FFFFFF;
 }
 .team-name {
     font-weight: 500;
